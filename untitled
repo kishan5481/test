@@ -1,0 +1,16 @@
+
+arr.splice();
+
+arr.slice();
+
+
+To iterate an array we can use forEach,for,for of methods
+
+
+map: return an array with results.
+
+
+some(): used to check the condition on every element in an array if it is satisfied it returns true else false.
+
+
+

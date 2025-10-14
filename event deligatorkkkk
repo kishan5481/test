@@ -1,0 +1,40 @@
+event deligator
+diff b/w theread and process
+jwt
+
+object interview question
+
+
+
+set is a unique collection data structure.
+
+it has few methods and properties.
+
+let set = new Set([1,2,3]);
+
+set.add(4);
+set.has(4);
+set.size;
+set.delete(3);
+set.clear();
+
+
+1. Parenthesis problems
+2. Counting substrings based on conditions
+3. String type checks
+4. Palindromic strings
+5. Sorting strings
+6. Longest and shortest string problems
+
+
+
+
+React:
+
+useState() : hook to update the previous state with current state always use like this 
+
+let [count,setCount] = useState(0);
+
+setCount(previous => previous +1);
+
+*) usestate hook doent merge objects automatically we need to merge it manually.
